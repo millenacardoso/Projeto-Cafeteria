@@ -1,0 +1,100 @@
+body {
+    background-image: url('coffee-1900194_1280.jpg');
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+  }
+
+  h1 {
+    font-family: Great Vibes, cursive;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #33140A;
+  }
+
+  h2 {
+    font-family: Parisienne, cursive;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .established {
+    font-family: Pinyon Script, cursive;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  h1, h2, p {
+    text-align: center;
+  }
+
+  .menu {
+    width: 80%;
+    background-color: #DEB786;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+
+  .bottom-line {
+    margin-top: 25px;
+  }
+
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+
+  /* FOOTER */
+
+  footer {
+    font-size: 14px;
+  }
+
+  .address {
+    margin-bottom: 5px;
+  }
+
+  a {
+    color: black;
+  }
+
+  a:visited {
+    color: black;
+  }
+
+  a:hover {
+    color: brown;
+  }
+
+  a:active {
+    color: brown;
+  }
